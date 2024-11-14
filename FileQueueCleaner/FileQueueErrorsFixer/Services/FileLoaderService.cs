@@ -1,8 +1,8 @@
-﻿using FileQueueErrorsFixer.Models;
-using FileQueueErrorsFixer.Models.FileQueue;
+﻿using FileQueueCleanerConsoleApp.Models;
+using FileQueueCleanerConsoleApp.Models.FileQueue;
 using Newtonsoft.Json;
 
-namespace FileQueueErrorsFixer.Services
+namespace FileQueueCleanerConsoleApp.Services
 {
     internal class FileLoaderService
     {

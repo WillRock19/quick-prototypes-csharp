@@ -1,9 +1,9 @@
-﻿using FileQueueErrorsFixer.Models;
-using FileQueueErrorsFixer.Models.FileQueue;
+﻿using FileQueueCleanerConsoleApp.Models;
+using FileQueueCleanerConsoleApp.Models.FileQueue;
 using Microsoft.Azure.Cosmos.Serialization.HybridRow;
 using Microsoft.Extensions.Configuration;
 
-namespace FileQueueErrorsFixer.Services
+namespace FileQueueCleanerConsoleApp.Services
 {
     internal class FixRecordsService
     {

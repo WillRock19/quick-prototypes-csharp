@@ -4,7 +4,7 @@
 using Microsoft.Azure.Cosmos;
 using Newtonsoft.Json;
 
-namespace FileQueueErrorsFixer.Models.FileQueue
+namespace FileQueueCleanerConsoleApp.Models.FileQueue
 {
     public class FileQueue : CosmosDbEntity
     {

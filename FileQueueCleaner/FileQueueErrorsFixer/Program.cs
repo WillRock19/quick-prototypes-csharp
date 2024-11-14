@@ -1,9 +1,9 @@
-﻿using FileQueueErrorsFixer.Models;
-using FileQueueErrorsFixer.Models.FileQueue;
-using FileQueueErrorsFixer.Services;
+﻿using FileQueueCleanerConsoleApp.Models;
+using FileQueueCleanerConsoleApp.Models.FileQueue;
+using FileQueueCleanerConsoleApp.Services;
 using Microsoft.Extensions.Configuration;
 
-namespace FileQueueErrorsFixer
+namespace FileQueueCleanerConsoleApp
 {
     internal class Program
     {

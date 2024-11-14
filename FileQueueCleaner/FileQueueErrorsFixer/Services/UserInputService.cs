@@ -1,6 +1,6 @@
-﻿using FileQueueErrorsFixer.Models;
+﻿using FileQueueCleanerConsoleApp.Models;
 
-namespace FileQueueErrorsFixer.Services
+namespace FileQueueCleanerConsoleApp.Services
 {
     internal class UserInputService
     {

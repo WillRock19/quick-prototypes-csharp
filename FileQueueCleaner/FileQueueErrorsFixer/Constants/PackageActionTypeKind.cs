@@ -1,6 +1,6 @@
-﻿using FileQueueErrorsFixer.Models.FileQueue.Actions;
+﻿using FileQueueCleanerConsoleApp.Models.FileQueue.Actions;
 
-namespace FileQueueErrorsFixer.Constants
+namespace FileQueueCleanerConsoleApp.Constants
 {
     public class PackageActionTypeKind
     {

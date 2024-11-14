@@ -1,10 +1,10 @@
 ﻿#nullable enable
 
-using FileQueueErrorsFixer.Constants;
-using FileQueueErrorsFixer.Interfaces;
+using FileQueueCleanerConsoleApp.Constants;
+using FileQueueCleanerConsoleApp.Interfaces;
 using Newtonsoft.Json;
 
-namespace FileQueueErrorsFixer.Models.FileQueue.Actions
+namespace FileQueueCleanerConsoleApp.Models.FileQueue.Actions
 {
     public class UndefinedAction : IPackageActionType
     {

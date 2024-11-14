@@ -2,9 +2,9 @@
 
 using Azure.Storage.Blobs;
 using Azure.Storage.Blobs.Specialized;
-using FileQueueErrorsFixer.Models;
+using FileQueueCleanerConsoleApp.Models;
 
-namespace FileQueueErrorsFixer.Services
+namespace FileQueueCleanerConsoleApp.Services
 {
     internal class AzureStorageService
     {

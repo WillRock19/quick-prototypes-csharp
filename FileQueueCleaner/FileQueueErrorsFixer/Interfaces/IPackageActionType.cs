@@ -1,6 +1,6 @@
 ﻿#nullable enable
 
-namespace FileQueueErrorsFixer.Interfaces
+namespace FileQueueCleanerConsoleApp.Interfaces
 {
     public interface IPackageActionType
     {

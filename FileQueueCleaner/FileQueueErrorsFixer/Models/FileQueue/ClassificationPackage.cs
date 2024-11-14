@@ -1,11 +1,11 @@
 ﻿#nullable enable
 
-using FileQueueErrorsFixer.Converters;
-using FileQueueErrorsFixer.Interfaces;
-using FileQueueErrorsFixer.Models.FileQueue.Actions;
+using FileQueueCleanerConsoleApp.Converters;
+using FileQueueCleanerConsoleApp.Interfaces;
+using FileQueueCleanerConsoleApp.Models.FileQueue.Actions;
 using Newtonsoft.Json;
 
-namespace FileQueueErrorsFixer.Models.FileQueue
+namespace FileQueueCleanerConsoleApp.Models.FileQueue
 {
     public record ClassificationPackage
     {

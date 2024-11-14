@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FileQueueErrorsFixer.Models.FileQueue
+namespace FileQueueCleanerConsoleApp.Models.FileQueue
 {
     public class OcrDocumentClassificationResult
     {

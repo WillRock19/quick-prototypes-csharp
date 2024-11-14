@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace FileQueueErrorsFixer.Extensions
+namespace FileQueueCleanerConsoleApp.Extensions
 {
     internal static class ObjectExtensions
     {

@@ -1,4 +1,4 @@
-﻿namespace FileQueueErrorsFixer.Models.FileQueue
+﻿namespace FileQueueCleanerConsoleApp.Models.FileQueue
 {
     public enum ClassificationPackageStatus
     {

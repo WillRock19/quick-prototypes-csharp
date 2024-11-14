@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Converters;
 
-namespace FileQueueErrorsFixer.Models
+namespace FileQueueCleanerConsoleApp.Models
 {
     public class CosmosDbEntity
     {

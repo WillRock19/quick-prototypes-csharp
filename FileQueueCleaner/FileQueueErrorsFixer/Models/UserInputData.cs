@@ -1,6 +1,6 @@
 ﻿#nullable enable
 
-namespace FileQueueErrorsFixer.Models
+namespace FileQueueCleanerConsoleApp.Models
 {
     internal class UserInputData
     {

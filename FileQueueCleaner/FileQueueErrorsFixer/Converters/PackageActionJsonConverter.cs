@@ -1,10 +1,10 @@
-﻿using FileQueueErrorsFixer.Extensions;
-using FileQueueErrorsFixer.Interfaces;
-using FileQueueErrorsFixer.Models.FileQueue.Actions;
+﻿using FileQueueCleanerConsoleApp.Extensions;
+using FileQueueCleanerConsoleApp.Interfaces;
+using FileQueueCleanerConsoleApp.Models.FileQueue.Actions;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace FileQueueErrorsFixer.Converters
+namespace FileQueueCleanerConsoleApp.Converters
 {
     internal class PackageActionJsonConverter : JsonConverter
     {

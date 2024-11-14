@@ -1,11 +1,11 @@
-﻿using FileQueueErrorsFixer.Models.FileQueue;
+﻿using FileQueueCleanerConsoleApp.Models.FileQueue;
 using Microsoft.Azure.Cosmos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Xml;
 
-namespace FileQueueErrorsFixer.Services
+namespace FileQueueCleanerConsoleApp.Services
 {
     internal class FileQueueCosmosDbService
     {
